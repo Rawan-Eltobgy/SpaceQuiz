@@ -1,0 +1,42 @@
+smallest
+largest 
+coldest 
+hottest
+glassy
+rocky
+icy
+red
+ice
+lava
+holes
+craters
+59 days
+44 days
+88 days
+235 days
+Messenger of the Greek gods.
+A chemical substance.
+Messenger of the Roman gods.
+A roman philosipher.
+Messanger
+Mariner 10
+Mariner 1
+Merc 1.0
+0
+1
+2
+3
+150.5 C
+230.6 C
+180.3 C
+166.8 C
+0.284
+1
+0.538
+2.5
+solar eclipse
+lunar eclipse
+transit
+transmit
+
+
